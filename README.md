@@ -7,7 +7,7 @@
 - 💬 Ask me about my thoughts on AI in the development world and how to utilize it for the better.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/jahquan-williams/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an amputee and cancer survivor of 20+ years! Learn more about cancer awareness and fundraising here: 
+- ⚡ Fun fact: I'm an amputee and cancer survivor; cancer-free for 20+ years! Learn more about cancer awareness and fundraising here: 
       https://www.cancer.org/involved/fundraise/relay-for-life.html
 
 <!--
