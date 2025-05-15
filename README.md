@@ -1,9 +1,7 @@
 ## Hello everyone! 👋
 
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
 - 🔭 I’m currently working on my Full-Stack Real Estate Budgeting Assistance Tool using
-      technologies such as MySQL, Hibernate, Java Spring REST Api (Crud), Axios, Bootstrap CSS and React.js (backend to frontend).
+      technologies such as MySQL, Hibernate, Java Spring REST Api (CRUD), Axios, Bootstrap CSS and React.js (backend to frontend).
 - 🌱 I’m currently learning the Full Stack environment around Java Spring Boot, Databases and frontend JSX/React.js.
 - 🤔 I’m looking for help with testing and more ideas for more projects!
 - 💬 Ask me about my thoughts on AI in the development world and how to utilize it for the better.
